@@ -3,6 +3,11 @@ This is a utility to help with loading federated apps that uses different react 
 
 # Usage
 
+Install the package in both shell remote apps
+````bash
+npm install @xarc/module-federation-util --save
+````
+
 ## In Shell app
 ```javascript
 ...
